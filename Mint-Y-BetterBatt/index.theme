@@ -1,7 +1,7 @@
 [Icon Theme]
-Name=Mint-X-BetterBatt
-Inherits=Mint-X,gnome,hicolor
-Comment=Improved battery icons for Linux Mint. Based on the base Linux Mint theme.
+Name=Mint-Y-BetterBatt
+Inherits=Mint-Y,gnome,hicolor
+Comment=Improved battery icons for Linux Mint. Based on the Mint-Y Linux Mint theme.
 Directories=status/22,status/24,status/32,status/48,status/96,status/scalable
 Example=directory-x-normal
 
